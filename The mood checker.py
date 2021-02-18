@@ -9,18 +9,18 @@ if user_name:
 
 
 if user_mood == "Happy":
-    input("It is great to see you happy!")
+    print("It is great to see you happy!")
 
 elif user_mood == "Sad":
-    input("Dont be, life is beautiful!")
+    print("Dont be, life is beautiful!")
 
 elif user_mood == "Relaxed":
-    input("Lets keep chilling then.")
+    print("Lets keep chilling then.")
 
 elif user_mood == "Nervous":
-    input("Take a deep breath 3 times.")
+    print("Take a deep breath 3 times.")
 
 else:
-    input("I don't recognize this mood.")
+    print("I don't recognize this mood.")
 
 
